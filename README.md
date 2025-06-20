@@ -32,8 +32,8 @@ Essa ferramenta visa auxiliar indústrias alimentícias, comércios e estabeleci
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/inspetor-higiene.git
-cd inspetor-higiene
+git clone https://github.com/davidcarriel/projeto-higiene.git
+cd projeto-higiene
 
 ```
 
